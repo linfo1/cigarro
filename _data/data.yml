@@ -1,12 +1,12 @@
-name: John Doe
+name: Malboro da Silva
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
   email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  github: malsilva
+  linkedin: malsilva
   phone: 
   gitlab: 
   twitter: 
@@ -76,12 +76,12 @@ experience:
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
-    authors: John E. Doe
+    authors: Malboro Y. da Silva
     conference: Some conference, 2016
 
   - title: Second title of paper. An interesting one too.
     link: "#"
-    authors: John E. Doe
+    authors: Malboro Y. da Silva
     conference: Some conference again, 2018
 
 projects:
