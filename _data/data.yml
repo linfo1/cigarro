@@ -1,108 +1,91 @@
-name: Malboro da Silva
+name: Ian
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: malsilva
-  linkedin: malsilva
-  phone: 
+  email: ian1203@hotmail.com
+  github: linfo1
+  linkedin:
+  phone: (84) 9953-1353
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
+  - idiom: Portuguese
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: 
+    time: 
+    university: 
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: 
+    time:
+    university:
 
 skills:
-  - category: Backend
+  - category: 
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - 
+      - 
+  - category: 
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - 
+      - 
+  - category: 
     skill:
-      - Docker
-      - Kubernetes 
+      - 
+      -  
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+   Este é o meu perfil. 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: 
+    time: 
+    company: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Ainda não tenho experiência de trabalho.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: 
+    time: 
+    company: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: Malboro Y. da Silva
-    conference: Some conference, 2016
+  - title: 
+    link: 
+    authors: 
+    conference: 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: Malboro Y. da Silva
-    conference: Some conference again, 2018
+  - title:
+    link: 
+    authors: 
+    conference: 
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: 
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      
 
-  - title: Cool Project 
+  - title:  
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+     
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time:
+    role: 
+    company:
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
