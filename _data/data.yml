@@ -17,13 +17,12 @@ languages:
   - idiom: French
 
 education:
-  - degree: 
-    time: 
-    university: 
+  - degree: Curso técnico em Informática
+    time: 2023
+    university: IFRN/MO
 
   - degree: 
     time:
-    university:
 
 skills:
   - category: 
